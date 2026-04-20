@@ -41,7 +41,7 @@ AI-powered career coaching agent  that analyzes user interests, identifies skill
 
 ---## 🎥 Demo Vide
 
-[👉 Watch Demo Video](https://drive.google.com/file/d/1rbeoFBrL0zwwBNVw2sH1FMMxMAyKq7IK/view)
+[👉 Watch Demo Video](https://drive.google.com/file/d/1rbeoFBrL0zWwBNVw2sH1FMMxMAyKq7IK/view?usp=drivesdk)
 
 -----
 
